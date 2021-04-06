@@ -1,0 +1,1386 @@
+current_plcdb_name: plcdata2021-04-06_00_00.db
+1[882]: datalist_to_store size: 882
+2021-04-06 00:00:00: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:00:18: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:00:18: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:00:18: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:00:18: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:00:39: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:00:39: [13635] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-05_23_50.db in httpScaleDataSender thread
+2021-04-06 00:00:39: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:00:40: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:00:40: select done
+2021-04-06 00:00:40: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:00:40: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:00:40: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:00:40: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:00:40: D+: 2910 in httpScaleDataSender thread
+2021-04-06 00:00:40: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:00:40: S+: 90 in httpScaleDataSender thread
+2021-04-06 00:00:40: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:00:42: send http
+2021-04-06 00:00:42: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:00:42: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:00:42: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:00:51: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:00:52: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:00:52: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:00:52: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:00:52: select done
+2021-04-06 00:00:52: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:00:52: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:00:52: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:00:52: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:00:52: D+: 2778 in httpScaleDataSender thread
+2021-04-06 00:00:52: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:00:52: S+: 222 in httpScaleDataSender thread
+2021-04-06 00:00:52: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:00:53: send http
+2021-04-06 00:00:53: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:00:53: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:00:53: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:01:03: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:01:03: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:01:03: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:01:04: select done
+2021-04-06 00:01:04: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:01:04: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:01:04: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:01:04: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:01:04: D+: 2748 in httpScaleDataSender thread
+2021-04-06 00:01:04: D-: 3 in httpScaleDataSender thread
+2021-04-06 00:01:04: S+: 249 in httpScaleDataSender thread
+2021-04-06 00:01:04: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:01:05: send http
+2021-04-06 00:01:05: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:01:05: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:01:06: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:01:16: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:01:16: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:01:16: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:01:16: select done
+2021-04-06 00:01:16: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:01:16: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:01:16: sendjson called, 2882 records in httpScaleDataSender thread
+2021-04-06 00:01:16: count: 2882 in httpScaleDataSender thread
+2021-04-06 00:01:16: D+: 1928 in httpScaleDataSender thread
+2021-04-06 00:01:16: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:01:16: S+: 954 in httpScaleDataSender thread
+2021-04-06 00:01:16: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:01:17: send http
+2021-04-06 00:01:17: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:01:17: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:01:18: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:01:18: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:01:19: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:01:19: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:01:19: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:01:28: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:01:28: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:01:28: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:01:28: select done
+2021-04-06 00:01:28: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:01:28: No Data remains in httpScaleDataSender thread
+2021-04-06 00:01:28: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-05_23_50.db
+2021-04-06 00:01:28: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db']
+2021-04-06 00:01:28: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:01:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:01:41: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:02:19: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:02:19: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:02:19: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:02:19: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:02:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:02:28: [13636] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:02:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:02:33: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:03:19: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:03:19: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:03:19: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:03:19: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:03:24: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:03:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:03:28: [13637] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:03:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:04:14: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:04:19: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:04:19: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:04:19: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:04:19: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:04:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:04:28: [13638] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:04:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:05:05: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:05:19: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:05:19: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:05:20: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:05:20: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:05:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:05:28: [13639] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:05:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:05:55: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:06:20: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:06:20: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:06:20: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:06:20: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:06:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:06:28: [13640] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:06:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:06:47: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:07:20: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:07:20: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:07:20: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:07:20: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:07:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:07:28: [13641] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:07:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:07:39: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:08:20: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:08:20: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:08:20: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:08:20: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:08:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:08:28: [13642] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:08:28: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:08:31: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:09:20: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:09:20: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:09:20: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:09:20: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:09:23: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:09:28: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:09:29: [13643] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:09:29: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+current_plcdb_name: plcdata2021-04-06_00_10.db
+1[691]: datalist_to_store size: 691
+2021-04-06 00:10:00: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:10:20: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:10:21: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:10:21: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:10:21: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:10:29: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:10:29: [13644] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_00.db in httpScaleDataSender thread
+2021-04-06 00:10:29: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:29: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:10:29: select done
+2021-04-06 00:10:29: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:10:29: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:10:29: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:10:29: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:10:29: D+: 51 in httpScaleDataSender thread
+2021-04-06 00:10:29: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:10:29: S+: 2949 in httpScaleDataSender thread
+2021-04-06 00:10:29: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:10:31: send http
+2021-04-06 00:10:31: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:10:31: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:32: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:10:42: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:10:42: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:42: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:10:42: select done
+2021-04-06 00:10:42: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:10:42: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:10:42: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:10:42: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:10:42: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:10:42: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:10:42: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:10:42: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:10:43: send http
+2021-04-06 00:10:43: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:10:43: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:43: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:10:51: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:10:53: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:10:53: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:54: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:10:54: select done
+2021-04-06 00:10:54: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:10:54: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:10:54: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:10:54: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:10:54: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:10:54: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:10:54: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:10:54: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:10:55: send http
+2021-04-06 00:10:55: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:10:55: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:10:56: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:11:06: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:11:06: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:11:06: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:11:06: select done
+2021-04-06 00:11:06: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:11:06: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:11:06: sendjson called, 2691 records in httpScaleDataSender thread
+2021-04-06 00:11:06: count: 2691 in httpScaleDataSender thread
+2021-04-06 00:11:06: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:11:06: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:11:06: S+: 2691 in httpScaleDataSender thread
+2021-04-06 00:11:06: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:11:07: send http
+2021-04-06 00:11:07: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:11:07: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:11:07: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:11:17: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:11:17: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:11:17: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:11:17: select done
+2021-04-06 00:11:17: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:11:17: No Data remains in httpScaleDataSender thread
+2021-04-06 00:11:17: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_00.db
+2021-04-06 00:11:18: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db']
+2021-04-06 00:11:18: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:11:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:11:21: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:11:21: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:11:21: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:11:21: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:11:42: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:12:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:12:18: [13645] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:12:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:12:21: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:12:21: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:12:21: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:12:21: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:12:34: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:13:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:13:18: [13646] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:13:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:13:21: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:13:21: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:13:21: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:13:21: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:13:26: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:14:17: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:14:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:14:18: [13647] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:14:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:14:21: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:14:21: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:14:21: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:14:21: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:15:10: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:15:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:15:18: [13648] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:15:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:15:21: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:15:22: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:15:22: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:15:22: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:16:01: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:16:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:16:18: [13649] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:16:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:16:22: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:16:22: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:16:22: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:16:22: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:16:52: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:17:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:17:18: [13650] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:17:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:17:22: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:17:22: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:17:22: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:17:22: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:17:43: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:18:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:18:18: [13651] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:18:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:18:22: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:18:22: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:18:22: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:18:22: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:18:34: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:19:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:19:18: [13652] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:19:18: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:19:22: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:19:22: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:19:22: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:19:22: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:19:26: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+1[669]: datalist_to_store size: 669
+2021-04-06 00:19:59: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+current_plcdb_name: plcdata2021-04-06_00_20.db
+2021-04-06 00:20:18: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:20:18: [13653] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_10.db in httpScaleDataSender thread
+2021-04-06 00:20:18: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:18: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:20:18: select done
+2021-04-06 00:20:18: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:20:18: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:20:18: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:20:18: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:18: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:20:18: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:20:18: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:18: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:20:20: send http
+2021-04-06 00:20:20: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:20:20: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:20: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:20:22: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:20:23: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:20:23: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:20:23: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:20:30: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:20:30: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:31: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:20:31: select done
+2021-04-06 00:20:31: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:20:31: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:20:31: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:20:31: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:31: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:20:31: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:20:31: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:31: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:20:32: send http
+2021-04-06 00:20:32: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:20:32: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:32: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:20:42: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:20:42: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:42: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:20:42: select done
+2021-04-06 00:20:42: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:20:42: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:20:42: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:20:42: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:42: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:20:42: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:20:43: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:20:43: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:20:44: send http
+2021-04-06 00:20:44: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:20:44: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:44: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:20:50: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:20:54: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:20:54: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:55: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:20:55: select done
+2021-04-06 00:20:55: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:20:55: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:20:55: sendjson called, 2669 records in httpScaleDataSender thread
+2021-04-06 00:20:55: count: 2669 in httpScaleDataSender thread
+2021-04-06 00:20:55: D+: 14 in httpScaleDataSender thread
+2021-04-06 00:20:55: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:20:55: S+: 2655 in httpScaleDataSender thread
+2021-04-06 00:20:55: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:20:56: send http
+2021-04-06 00:20:56: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:20:56: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:20:56: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:21:06: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:21:06: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:21:06: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:21:06: select done
+2021-04-06 00:21:06: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:21:06: No Data remains in httpScaleDataSender thread
+2021-04-06 00:21:06: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_10.db
+2021-04-06 00:21:06: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db']
+2021-04-06 00:21:06: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:21:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:21:23: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:21:23: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:21:23: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:21:23: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:21:41: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:22:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:22:06: [13654] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:22:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:22:23: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:22:23: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:22:23: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:22:23: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:22:32: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:23:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:23:06: [13655] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:23:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:23:23: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:23:23: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:23:23: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:23:23: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:23:23: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:24:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:24:06: [13656] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:24:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:24:15: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:24:23: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:24:23: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:24:24: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:24:24: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:25:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:25:06: [13657] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:25:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:25:07: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:25:24: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:25:24: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:25:24: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:25:24: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:25:59: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:26:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:26:06: [13658] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:26:06: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:26:24: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:26:24: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:26:24: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:26:24: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:26:49: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:27:06: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:27:07: [13659] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:27:07: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:27:24: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:27:24: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:27:24: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:27:24: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:27:40: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:28:07: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:28:07: [13660] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:28:07: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:28:24: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:28:24: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:28:24: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:28:24: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:28:30: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:29:07: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:29:07: [13661] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:29:07: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:29:21: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:29:24: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:29:24: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:29:25: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:29:25: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+1[764]: datalist_to_store size: 764
+2021-04-06 00:30:00: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+current_plcdb_name: plcdata2021-04-06_00_30.db
+2021-04-06 00:30:07: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:30:07: [13662] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_20.db in httpScaleDataSender thread
+2021-04-06 00:30:07: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:07: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:07: select done
+2021-04-06 00:30:07: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:30:07: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:30:07: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:30:07: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:30:07: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:30:07: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:30:07: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:30:07: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:30:09: send http
+2021-04-06 00:30:09: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:30:09: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:09: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:30:19: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:30:19: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:19: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:20: select done
+2021-04-06 00:30:20: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:30:20: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:30:20: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:30:20: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:30:20: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:30:20: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:30:20: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:30:20: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:30:21: send http
+2021-04-06 00:30:21: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:30:21: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:21: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:30:25: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:30:25: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:30:25: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:30:25: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:30:31: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:30:31: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:31: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:31: select done
+2021-04-06 00:30:31: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:30:31: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:30:31: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:30:31: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:30:31: D+: 8 in httpScaleDataSender thread
+2021-04-06 00:30:31: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:30:31: S+: 2992 in httpScaleDataSender thread
+2021-04-06 00:30:31: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:30:33: send http
+2021-04-06 00:30:33: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:30:33: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:33: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:30:43: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:30:43: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:44: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:44: select done
+2021-04-06 00:30:44: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:30:44: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:30:44: sendjson called, 2764 records in httpScaleDataSender thread
+2021-04-06 00:30:44: count: 2764 in httpScaleDataSender thread
+2021-04-06 00:30:44: D+: 19 in httpScaleDataSender thread
+2021-04-06 00:30:44: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:30:44: S+: 2745 in httpScaleDataSender thread
+2021-04-06 00:30:44: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:30:45: send http
+2021-04-06 00:30:45: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:30:45: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:45: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:30:51: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:30:55: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:30:55: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:30:55: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:55: select done
+2021-04-06 00:30:55: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:30:55: No Data remains in httpScaleDataSender thread
+2021-04-06 00:30:55: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_20.db
+2021-04-06 00:30:55: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db']
+2021-04-06 00:30:55: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:30:55: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:31:25: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:31:25: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:31:25: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:31:25: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:31:42: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:31:55: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:31:55: [13663] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:31:55: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:32:25: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:32:25: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:32:25: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:32:25: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:32:33: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:32:55: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:32:55: [13664] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:32:55: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:33:25: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:33:25: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:33:25: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:33:26: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:33:26: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:33:55: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:33:56: [13665] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:33:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:34:16: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:34:26: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:34:26: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:34:26: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:34:26: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:34:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:34:56: [13666] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:34:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:35:06: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:35:26: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:35:26: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:35:26: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:35:26: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:35:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:35:56: [13667] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:35:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:35:58: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:36:26: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:36:26: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:36:26: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:36:26: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:36:49: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:36:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:36:56: [13668] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:36:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:37:26: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:37:26: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:37:26: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:37:26: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:37:40: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:37:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:37:56: [13669] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:37:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:38:26: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:38:26: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:38:27: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:38:27: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:38:32: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:38:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:38:56: [13670] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:38:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:39:24: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:39:27: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:39:27: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:39:27: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:39:27: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:39:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:39:56: [13671] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:39:56: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+current_plcdb_name: plcdata2021-04-06_00_40.db
+1[699]: datalist_to_store size: 699
+2021-04-06 00:40:00: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:40:27: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:40:27: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:40:27: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:40:27: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:40:50: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:40:56: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:40:56: [13672] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_30.db in httpScaleDataSender thread
+2021-04-06 00:40:56: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:40:56: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:40:56: select done
+2021-04-06 00:40:56: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:40:56: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:40:56: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:40:56: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:40:56: D+: 8 in httpScaleDataSender thread
+2021-04-06 00:40:56: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:40:56: S+: 2992 in httpScaleDataSender thread
+2021-04-06 00:40:56: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:40:58: send http
+2021-04-06 00:40:58: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:40:58: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:40:58: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:41:08: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:41:08: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:08: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:41:08: select done
+2021-04-06 00:41:08: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:41:08: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:41:09: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:41:09: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:41:09: D+: 13 in httpScaleDataSender thread
+2021-04-06 00:41:09: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:41:09: S+: 2987 in httpScaleDataSender thread
+2021-04-06 00:41:09: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:41:10: send http
+2021-04-06 00:41:10: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:41:10: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:10: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:41:20: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:41:20: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:20: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:41:20: select done
+2021-04-06 00:41:20: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:41:20: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:41:20: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:41:20: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:41:21: D+: 49 in httpScaleDataSender thread
+2021-04-06 00:41:21: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:41:21: S+: 2951 in httpScaleDataSender thread
+2021-04-06 00:41:21: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:41:22: send http
+2021-04-06 00:41:22: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:41:22: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:23: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:41:27: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:41:27: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:41:27: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:41:27: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:41:33: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:41:33: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:33: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:41:33: select done
+2021-04-06 00:41:33: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:41:33: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:41:33: sendjson called, 2699 records in httpScaleDataSender thread
+2021-04-06 00:41:33: count: 2699 in httpScaleDataSender thread
+2021-04-06 00:41:33: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:41:33: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:41:33: S+: 2699 in httpScaleDataSender thread
+2021-04-06 00:41:33: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:41:34: send http
+2021-04-06 00:41:34: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:41:34: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:34: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:41:40: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:41:44: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:41:44: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:41:44: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:41:44: select done
+2021-04-06 00:41:44: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:41:44: No Data remains in httpScaleDataSender thread
+2021-04-06 00:41:44: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_30.db
+2021-04-06 00:41:44: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db']
+2021-04-06 00:41:44: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:41:44: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:42:27: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:42:27: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:42:27: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:42:27: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:42:30: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:42:44: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:42:45: [13673] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:42:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:43:21: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:43:27: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:43:27: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:43:28: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:43:28: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:43:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:43:45: [13674] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:43:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:44:11: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:44:28: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:44:28: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:44:28: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:44:28: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:44:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:44:45: [13675] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:44:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:45:01: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:45:28: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:45:28: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:45:28: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:45:28: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:45:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:45:45: [13676] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:45:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:45:51: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:46:28: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:46:28: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:46:28: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:46:28: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:46:42: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:46:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:46:45: [13677] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:46:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2021-04-06 00:47:28: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:47:29: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:47:29: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:47:29: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:47:32: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:47:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:47:45: [13678] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:47:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:48:23: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:48:29: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:48:29: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:48:29: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:48:29: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:48:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:48:45: [13679] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:48:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:49:13: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:49:29: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:49:29: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:49:29: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:49:29: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:49:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:49:45: [13680] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:49:45: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+current_plcdb_name: plcdata2021-04-06_00_50.db
+1[918]: datalist_to_store size: 918
+2021-04-06 00:50:00: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:50:29: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:50:29: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:50:29: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:50:29: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:50:45: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:50:45: [13681] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_40.db in httpScaleDataSender thread
+2021-04-06 00:50:45: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:50:45: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:50:45: select done
+2021-04-06 00:50:45: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:50:45: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:50:45: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:50:45: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:50:45: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:50:45: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:50:45: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:50:45: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:50:47: send http
+2021-04-06 00:50:47: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:50:47: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:50:47: got 'update query' results  in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:50:49: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:50:57: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:50:57: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:50:57: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:50:57: select done
+2021-04-06 00:50:57: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:50:57: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:50:58: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:50:58: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:50:58: D+: 147 in httpScaleDataSender thread
+2021-04-06 00:50:58: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:50:58: S+: 2853 in httpScaleDataSender thread
+2021-04-06 00:50:58: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:50:59: send http
+2021-04-06 00:50:59: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:50:59: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:50:59: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:51:09: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:51:09: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:51:09: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:51:10: select done
+2021-04-06 00:51:10: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:51:10: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:51:10: sendjson called, 3000 records in httpScaleDataSender thread
+2021-04-06 00:51:10: count: 3000 in httpScaleDataSender thread
+2021-04-06 00:51:10: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:51:10: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:51:10: S+: 3000 in httpScaleDataSender thread
+2021-04-06 00:51:10: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:51:12: send http
+2021-04-06 00:51:12: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:51:12: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:51:12: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:51:22: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:51:22: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:51:22: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:51:22: select done
+2021-04-06 00:51:22: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:51:22: HTTPSThreadState.STATE_HTTP_SEND in httpScaleDataSender thread
+2021-04-06 00:51:22: sendjson called, 2918 records in httpScaleDataSender thread
+2021-04-06 00:51:22: count: 2918 in httpScaleDataSender thread
+2021-04-06 00:51:22: D+: 0 in httpScaleDataSender thread
+2021-04-06 00:51:22: D-: 0 in httpScaleDataSender thread
+2021-04-06 00:51:22: S+: 2918 in httpScaleDataSender thread
+2021-04-06 00:51:22: S-: 0 in httpScaleDataSender thread
+True in httpScaleDataSender thread
+2021-04-06 00:51:23: send http
+2021-04-06 00:51:23: response status code: 200
+!!!!!!!!!! http://211.188.214.99:9001/?api-key=7PnRIpclK7wpHHDsp3KhJbCvXt88ABYVBFFzbuOkM8CpVka1lZ23Wp9piFHwX0yfw {'content-type': 'application/json'}
+True
+2021-04-06 00:51:23: HTTPSThreadState.STATE_UPDATE_REQUEST in httpScaleDataSender thread
+2021-04-06 00:51:24: got 'update query' results  in httpScaleDataSender thread
+2021-04-06 00:51:29: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:51:29: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:51:30: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:51:30: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:51:34: HTTP Send finished in httpScaleDataSender thread
+2021-04-06 00:51:34: HTTPSThreadState.STATE_SELECT_REQUEST in httpScaleDataSender thread
+2021-04-06 00:51:34: select from dbfilename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:51:34: select done
+2021-04-06 00:51:34: got 'select query' results  in httpScaleDataSender thread
+2021-04-06 00:51:34: No Data remains in httpScaleDataSender thread
+2021-04-06 00:51:34: HTTPSThreadState.STATE_MOVEFILE_REQUEST in httpScaleDataSender thread
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_40.db
+2021-04-06 00:51:34: HTTPSThreadState.STATE_DONE in httpScaleDataSender thread
+['/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db']
+2021-04-06 00:51:34: current db filename: /home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:51:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:51:40: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:52:30: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:52:30: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:52:30: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+[]
+2021-04-06 00:52:30: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:52:30: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:52:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:52:34: [13682] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:52:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:53:21: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:53:30: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:53:30: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:53:30: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:53:30: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:53:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:53:34: [13683] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:53:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:54:11: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:54:30: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:54:30: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:54:30: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:54:30: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:54:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:54:34: [13684] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:54:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:55:02: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:55:30: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:55:30: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:55:30: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:55:30: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:55:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:55:34: [13685] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:55:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:55:54: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:56:30: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:56:30: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:56:31: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:56:31: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:56:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:56:34: [13686] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:56:34: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:56:45: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:57:31: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:57:31: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:57:31: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:57:31: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:57:34: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:57:35: [13687] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:57:35: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:57:36: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:58:28: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:58:31: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:58:31: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:58:31: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:58:31: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:58:35: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:58:35: [13688] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:58:35: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+2[1000]: datalist_to_store size: 1000
+2021-04-06 00:59:19: insertdb called
+/home/skp002/workspace/skp_weight_new/db_folder/scale_db/scaledata_2021-04-06_00_50.db
+2021-04-06 00:59:31: httpPlcDataSender thread Timeout occurred
+[]
+2021-04-06 00:59:31: HTTPSThreadState.STATE_DONE in httpPlcDataSender thread
+[]
+2021-04-06 00:59:31: current db filename:  in httpPlcDataSender thread
+2021-04-06 00:59:31: HTTPSThreadState.STATE_IDLE in httpPlcDataSender thread
+2021-04-06 00:59:35: httpScaleDataSender thread Timeout occurred
+2021-04-06 00:59:35: [13689] running in httpScaleDataSender thread
+insert_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+select_scaledb_filename: scaledata_2021-04-06_00_50.db in httpScaleDataSender thread
+2021-04-06 00:59:35: HTTPSThreadState.STATE_IDLE in httpScaleDataSender thread
+logging_2021-04-06_01.log
